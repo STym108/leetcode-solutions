@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/STym108/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -49,8 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
