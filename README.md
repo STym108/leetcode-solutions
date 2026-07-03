@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
