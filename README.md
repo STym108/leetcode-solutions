@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/STym108/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
@@ -98,8 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
