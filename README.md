@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/STym108/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/STym108/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/STym108/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/STym108/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/STym108/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/STym108/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/STym108/leetcode-solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/STym108/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
