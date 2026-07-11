@@ -66,17 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/STym108/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/STym108/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
