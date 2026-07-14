@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/STym108/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/STym108/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/STym108/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Design
