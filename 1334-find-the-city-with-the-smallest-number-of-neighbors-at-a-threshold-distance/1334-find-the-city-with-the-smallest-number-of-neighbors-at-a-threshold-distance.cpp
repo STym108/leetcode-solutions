@@ -10,6 +10,8 @@ while(pq.size()){
 pr f=pq.top();pq.pop();
 int sofardis=f.first;
 int fnode=f.second;
+
+if (sofardis > dis[fnode]) continue;
 for(auto neighbpr:adj[fnode]){
     int totaldis=sofardis+neighbpr.second;
     int neighb=neighbpr.first;
