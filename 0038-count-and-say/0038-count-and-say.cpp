@@ -1,35 +1,27 @@
 class Solution {
 public:
+string rle(string str){
+    string ans="";
+int i=0;int count=0;char s;
+while(i<str.size()){
+    s=str[i];
+    count=0;
+    while(i<str.size()&&str[i]==s){
+        count++;i++;
+    }
+ans+=to_string(count);
+ans+=s;
+}
+return ans;
+}
     string countAndSay(int n) {
-    unordered_map<int,string>mpp; 
+    if(n==1) return "1";
     int i=2;
-    mpp[1]="1";
-
+    string str="1";
     while(i<=n){
-    unordered_map<char,int>mp;
-    string str=mpp[i-1];
-    int j=1;
-    char ch=str[0];
-    mp[ch]++;
-    string nstr="";
-    while(j<str.size()){
-    if(ch!=str[j]){
-     nstr+=to_string(mp[ch]);
-     nstr+=ch;
-     mp.erase(ch);
-     ch=str[j];
-     mp[ch]++;
+      str=rle(str);
+       i++;
     }
-    else mp[ch]++;
-    j++;
-    }
-    nstr+=to_string(mp[ch]);
-    nstr+=ch;
-    mpp[i]=nstr;
-    
-    mp.erase(ch);
-     i++;
-    }
-    return mpp[n];
+    return str;
     }
 };
