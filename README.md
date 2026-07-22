@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STym108/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/STym108/leetcode-solutions/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
