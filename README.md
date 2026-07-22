@@ -240,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1075-project-employees-i](https://github.com/STym108/leetcode-solutions/tree/master/1075-project-employees-i) |
+| [1683-invalid-tweets](https://github.com/STym108/leetcode-solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
