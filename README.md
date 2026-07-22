@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/STym108/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/STym108/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/STym108/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/STym108/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/STym108/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/STym108/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/STym108/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
