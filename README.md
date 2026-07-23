@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/STym108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/STym108/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/STym108/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/STym108/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/STym108/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/STym108/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/STym108/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/STym108/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/STym108/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/STym108/leetcode-solutions/tree/master/0061-rotate-list) |
