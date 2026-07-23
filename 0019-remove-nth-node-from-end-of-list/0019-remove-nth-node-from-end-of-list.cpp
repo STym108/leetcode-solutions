@@ -20,12 +20,15 @@ public:
         temp=temp->next;
       x++;
     }
+ if(temp==NULL) return head->next;
+
     while(temp&&temp->next){
         temp=temp->next;
         backtemp=backtemp->next;
     }
-    if(backtemp==head&&!temp) return head->next;
-    if(backtemp->next) backtemp->next=backtemp->next->next;
+
+    // if(backtemp==head&&!temp) return head->next;
+ backtemp->next=backtemp->next->next;
     return head;
 
     }
