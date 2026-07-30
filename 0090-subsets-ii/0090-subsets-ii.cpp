@@ -1,6 +1,6 @@
 class Solution {
 public:
-void getans(vector<int>& nums,int idx,vector<int>temp,vector<vector<int>>&ans){
+void getans(vector<int>& nums,int idx,vector<int>&temp,vector<vector<int>>&ans){
 
     for(int i=idx;i<nums.size();i++){
        if(i>idx&&nums[i]==nums[i-1]) continue;
