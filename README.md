@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/STym108/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/STym108/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0216-combination-sum-iii](https://github.com/STym108/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/STym108/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/STym108/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/STym108/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/STym108/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/STym108/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/STym108/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Stack
 |  |
 | ------- |
