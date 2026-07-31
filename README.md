@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/STym108/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/STym108/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/STym108/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1789-primary-department-for-each-employee](https://github.com/STym108/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 ## Queue
 |  |
 | ------- |
