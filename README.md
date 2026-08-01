@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1070-product-sales-analysis-iii](https://github.com/STym108/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/STym108/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/STym108/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/STym108/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
