@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/STym108/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/STym108/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/STym108/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STym108/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STym108/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/STym108/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/STym108/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/STym108/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/STym108/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STym108/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/STym108/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/STym108/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/STym108/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STym108/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/STym108/leetcode-solutions/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
