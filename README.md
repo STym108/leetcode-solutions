@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/STym108/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/STym108/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/STym108/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/STym108/leetcode-solutions/tree/master/1075-project-employees-i) |
