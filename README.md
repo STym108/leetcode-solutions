@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/STym108/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/STym108/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/STym108/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/STym108/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/STym108/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/STym108/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Queue
