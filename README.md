@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0992-subarrays-with-k-different-integers](https://github.com/STym108/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/STym108/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/STym108/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/STym108/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
