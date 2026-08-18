@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/STym108/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/STym108/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0992-subarrays-with-k-different-integers](https://github.com/STym108/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/STym108/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/STym108/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/STym108/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/STym108/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Randomized
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/STym108/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
