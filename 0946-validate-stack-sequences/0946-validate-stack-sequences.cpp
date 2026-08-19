@@ -1,25 +1,23 @@
 class Solution {
 public:
-    bool validateStackSequences(vector<int>& ps, vector<int>& pp) {
-    stack<int>st;
-    int i=0;
- 
+    bool validateStackSequences(vector<int>& num1, vector<int>& num2) {
+    if(num1.size()!=num2.size()) return false;
     
-    for(int j=0;j<pp.size();j++){
+    stack<int>st;
 
-         if(st.size()&&st.top()!=pp[j]&&i>=ps.size()) return false;
-
-         if(!st.size()||st.top()!=pp[j])  {
-             while(i<ps.size()&&pp[j]!=ps[i]){
-                st.push(ps[i]);i++;
-            }
-            if(i>=ps.size()) return false;
-            st.push(ps[i]);i++;
-            }
-
-            if(st.size()&&st.top()==pp[j]){ st.pop();}
+    int i=0;
+    int j=0;
+    while(j<num2.size()){
+    if(st.size()&&st.top()==num2[j]){ st.pop();j++; }
+    else{ while(i<num1.size()&&num1[i]!=num2[j]) st.push(num1[i++]);
+    if(i<num1.size()&&num1[i]==num2[j]) st.push(num1[i++]);
     }
+        if(st.size()>0&&st.top()!=num2[j]&&i>=num1.size()) return false;
+
+    }
+
     if(st.size()>0) return false;
     return true;
+
     }
 };
