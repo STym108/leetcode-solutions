@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STym108/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/STym108/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/STym108/leetcode-solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STym108/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/STym108/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/STym108/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/STym108/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/STym108/leetcode-solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/STym108/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/STym108/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/STym108/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/STym108/leetcode-solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Counting
 |  |
 | ------- |
