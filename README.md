@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/STym108/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/STym108/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0416-partition-equal-subset-sum](https://github.com/STym108/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/STym108/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/STym108/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/STym108/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/STym108/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/STym108/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/STym108/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -395,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/STym108/leetcode-solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/STym108/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/STym108/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
