@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/STym108/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/STym108/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/STym108/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1105-filling-bookcase-shelves](https://github.com/STym108/leetcode-solutions/tree/master/1105-filling-bookcase-shelves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/STym108/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0946-validate-stack-sequences](https://github.com/STym108/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/STym108/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1105-filling-bookcase-shelves](https://github.com/STym108/leetcode-solutions/tree/master/1105-filling-bookcase-shelves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/STym108/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/STym108/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
