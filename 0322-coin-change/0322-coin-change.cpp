@@ -10,8 +10,8 @@ public:
         int skip=dp[i-1][j];
         int take=INT_MAX;
         if(j-coins[i-1]>=0) take=dp[i][j-coins[i-1]];
-        if(take!=INT_MAX&&take<skip) dp[i][j]=1+min(take,skip);
-        else dp[i][j]=skip;
+        if(take!=INT_MAX) take++;
+         dp[i][j]=min(skip,take);
 
         }
     }
