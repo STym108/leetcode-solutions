@@ -11,40 +11,38 @@
  */
 class Solution {
 public:
-typedef pair<int,int>pr;
-int mincol=1001;
-void dfs(TreeNode* &root,int i,int j,unordered_map<int,vector<pr>>&mp){
-    if(!root) return ;
-    mp[j].push_back({i,root->val});
-    mincol=min(mincol,j);
-    dfs(root->left,i+1,j-1,mp);
-    dfs(root->right,i+1,j+1,mp);
-    }
+   unordered_map<int, vector<vector<int>>> mp;
+   void makemap(TreeNode* root,int r,int c){
+   if(!root) return ;
+   mp[c].push_back({c,r,root->val});
+   makemap(root->left,r+1,c-1);
+   makemap(root->right,r+1,c+1);
+   }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-      unordered_map<int,vector<pr>>mp;
-      dfs(root,0,0,mp);
-      vector<vector<pr>>ans;
-      int col=mincol;
-      while(mp.find(col)!=mp.end()){
-        ans.push_back(mp[col]);
-        col++;
-      }
-      //sorted by col, now sorting by row the if row equal :sort by value
-    //   sort(ans.begin(),ans.end(),[](const vector<pr>&a,const vector<pr>&b){
-    //   return (a.first<b.first||a.first==b.first&&a.second<b.second);
-    //   });
-    // sort(ans.begin(),ans.end());
-    vector<vector<int>>v;
-    for(int i=0;i<ans.size();i++){
+    
+    makemap(root,0,0);
+     vector<vector<int>>ans;
+    for(auto vp:mp){
+    vector<vector<int>>v=vp.second;
+        sort(v.begin(),v.end(),[](const vector<int>&a,const vector<int>&b){
+        if(a[1]==b[1]) return a[2]<b[2];
+        else return a[1]<b[1];
+        return false;
+        });
         vector<int>temp;
-    sort(ans[i].begin(),ans[i].end());
-    for(int j=0;j<ans[i].size();j++){
-    temp.push_back(ans[i][j].second);
+        for(int i=0;i<v.size();i++){
+            temp.push_back(v[i][2]);
+        }
+        temp.push_back(vp.first);
+        ans.push_back(temp);
     }
-
-    v.push_back(temp);
+    sort(ans.begin(),ans.end(),[](const vector<int>&a,const vector<int>&b){
+    return a[a.size()-1]<b[b.size()-1];
+    });
+    for(int i=0;i<ans.size();i++){
+        ans[i].pop_back();
     }
-    return v;
-
+    return ans;
+   
     }
 };
