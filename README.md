@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/STym108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/STym108/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/STym108/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/STym108/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/STym108/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/STym108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/STym108/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Graph Theory
 |  |
 | ------- |
