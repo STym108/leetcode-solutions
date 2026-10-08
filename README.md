@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/STym108/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/STym108/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/STym108/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/STym108/leetcode-solutions/tree/master/0619-biggest-single-number) |
