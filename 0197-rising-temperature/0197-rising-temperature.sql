@@ -2,7 +2,5 @@
 select w1.id 
 from weather as w1
 join weather as w2
-
-
-where datediff(w1.recordDate,w2.recordDate)=1
-and w1.temperature>w2.temperature 
+on w1.recordDate=date_add(w2.recordDate,interval 1 day)=1
+where w1.temperature>w2.temperature 
