@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/STym108/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/STym108/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/STym108/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/STym108/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/STym108/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/STym108/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/STym108/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/STym108/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/STym108/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/STym108/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/STym108/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/STym108/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/STym108/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/STym108/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
