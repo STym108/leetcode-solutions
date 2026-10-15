@@ -441,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/STym108/leetcode-solutions/tree/master/0337-house-robber-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/STym108/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
