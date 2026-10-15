@@ -1,44 +1,36 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int count1 = 0;
-        int count2 = 0;
-        int maj1;
-        int maj2;
+    int x=0;
+    int countx=0;
+    int y=0;
+    int county=0;
+    
+    for(int i=0;i<nums.size();i++){
+   if(countx>0&&nums[i]==x){
+    countx++;
+   }
+   else if(county>0&&nums[i]==y){
+    county++;
+   }
+   else if(countx==0){
+    x=nums[i]; countx++;
+   }
+   else if(county==0){
+    y=nums[i]; county++;
+   }
+   else {countx--;county--;}
 
-        for (int i = 0; i < nums.size(); i++) {
-               if (count1 == 0&&nums[i]!=maj2) {
-                maj1 = nums[i];
-                count1++;
-            }
-
-            else if (count2 == 0&&nums[i]!=maj1) {
-                maj2 = nums[i];
-                count2++;
-            }
-          else  if (maj1 == nums[i])
-                count1++;
-            else if (maj2 == nums[i])
-                count2++;
-
-          else {
-                count1--;
-                count2--;
-            }
-        }
-        int f1 = 0;
-        int f2 = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] == maj1)
-                f1++;
-            if (nums[i] == maj2)
-                f2++;
-        }
-        vector<int> ans;
-        if (f1 > (nums.size() / 3))
-            ans.push_back(maj1);
-        if (f2 > (nums.size() / 3))
-            ans.push_back(maj2);
-        return ans;
+    }
+    countx=0;
+    county=0;
+    for(int i=0;i<nums.size();i++) if(nums[i]==x) countx++;
+    for(int i=0;i<nums.size();i++) if(nums[i]==y) county++;
+    int n=nums.size();
+    vector<int>ans;
+    if(countx>n/3) ans.push_back(x);
+    if(x==y) return ans ;
+     if(county>n/3){  ans.push_back(y);}
+     return ans ;
     }
 };
